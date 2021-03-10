@@ -13,6 +13,7 @@
     "ISSN": "0960-9822",
     "journalAbbreviation": "Curr. Biol.",
     "language": "en",
+    "note": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Habitasse platea dictumst quisque sagittis purus sit amet volutpat consequat. Dui id ornare arcu odio ut sem nulla. Sit amet venenatis urna cursus. Tempus urna et pharetra pharetra massa massa ultricies. Nulla porttitor massa id neque. Ut tortor pretium viverra suspendisse. Blandit libero volutpat sed cras ornare arcu dui vivamus arcu. ",
     "author": [{
         "family": "Hisakata",
         "given": "Rumi"
@@ -84,6 +85,7 @@
     "event-place": "New York, NY",
     "ISBN": "0471383910",
     "language": "en-US",
+    "note": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Aliquet eget sit amet tellus cras adipiscing enim eu turpis.",
     "author": [{
         "family": "Hogue",
         "given": "Christopher W. V."
@@ -114,6 +116,7 @@
     "ISBN": "0879695773",
     "shortTitle": "Molecular cloning",
     "language": "en-US",
+    "note": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. At quis risus sed vulputate odio. Nullam eget felis eget nunc lobortis mattis aliquam faucibus. Volutpat commodo sed egestas egestas fringilla phasellus faucibus scelerisque. ",
     "author": [{
         "family": "Sambrook",
         "given": "Joe"
